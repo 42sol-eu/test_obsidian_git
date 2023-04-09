@@ -1,7 +1,8 @@
 
 - [ ] online github.com Benutzerkonto anlegen (kostenlos)
-      Email-Adresse
-      Passwort
+      Email-Adresse: gmail
+      Passwort: ******
+      username: stealthkiller17
 - [ ] online repository anlegen.
       Name
 - [ ] offline obsidian community plugins aktivieren
@@ -9,6 +10,8 @@
 - [ ] offline vault als git repository anlegen
 - [ ] online remote (verbindung zu github) setzen
 - [ ] online erstes vom Server herunterladen (pull) und auf Server speichern (push)
+
+![[Pasted image 20230409170847.png]]
 
 TODO:
 - [ ]  Alte Dateien wiederherstellen / Backup wiederherstellen
