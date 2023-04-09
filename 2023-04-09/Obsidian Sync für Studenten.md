@@ -7,15 +7,16 @@
 - [x] online repository anlegen.
       Name: obsidian_benedikt_kraft
       URL: https://github.com/stealthkiller17/obsidian_benedikt_kraft.git
-- [ ] install scoop
-- [ ] install putty
-- [ ] install git
-- [ ] setup ssh key 
+- [x] install scoop
+- [x] install putty
+- [x] install git
+- [x] setup ssh key 
 - [x] offline obsidian community plugins aktivieren
 - [x] online obsidian git plugin installieren
-- [ ] offline vault als git repository anlegen
-- [ ] online remote (verbindung zu github) setzen
-- [ ] online erstes vom Server herunterladen (pull) und auf Server speichern (push)
+- [x] offline vault als git repository anlegen
+- [x] online remote (verbindung zu github) setzen
+- [x] online erstes vom Server herunterladen (pull) und auf Server speichern (push)
+- [ ] Zweites Gerät einrichten (2023-04-09)
 
 ![[Pasted image 20230409170847.png]]
 
