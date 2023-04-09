@@ -1,7 +1,8 @@
 {
   "pinned": [
-    "workspace:export-pdf",
-    "editor:fold-all",
-    "editor:unfold-all"
+    "obsidian-git:pull",
+    "obsidian-git:push2",
+    "obsidian-git:commit",
+    "obsidian-git:commit-push-specified-message"
   ]
 }
