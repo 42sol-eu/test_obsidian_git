@@ -1,10 +1,12 @@
 
-- [ ] online github.com Benutzerkonto anlegen (kostenlos)
+- [x] online github.com Benutzerkonto anlegen (kostenlos)
       Email-Adresse: gmail
       Passwort: ******
       username: stealthkiller17
-- [ ] online repository anlegen.
-      Name
+      (code from email)
+- [x] online repository anlegen.
+      Name: obsidian_benedikt_kraft
+      URL: https://github.com/stealthkiller17/obsidian_benedikt_kraft.git
 - [ ] offline obsidian community plugins aktivieren
 - [ ] online obsidian git plugin installieren
 - [ ] offline vault als git repository anlegen
