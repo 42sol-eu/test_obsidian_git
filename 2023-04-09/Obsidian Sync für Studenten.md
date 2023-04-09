@@ -7,8 +7,8 @@
 - [x] online repository anlegen.
       Name: obsidian_benedikt_kraft
       URL: https://github.com/stealthkiller17/obsidian_benedikt_kraft.git
-- [ ] offline obsidian community plugins aktivieren
-- [ ] online obsidian git plugin installieren
+- [x] offline obsidian community plugins aktivieren
+- [x] online obsidian git plugin installieren
 - [ ] offline vault als git repository anlegen
 - [ ] online remote (verbindung zu github) setzen
 - [ ] online erstes vom Server herunterladen (pull) und auf Server speichern (push)
