@@ -54,12 +54,8 @@
             "id": "da3ab39bca6b1c4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aufsatz über Hegel/GWF Hegel.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -128,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aufsatz über Hegel/Einleitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aufsatz über Hegel/Einleitung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Aufsatz über Hegel/Einleitung.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -177,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 421.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,10 +182,11 @@
       "audio-recorder:Audioaufzeichnung starten/stoppen": false
     }
   },
-  "active": "2edb071a6be03262",
+  "active": "da3ab39bca6b1c4f",
   "lastOpenFiles": [
-    "Recording 20230408114537.webm",
+    "Aufsatz über Hegel/GWF Hegel.md",
     "Aufsatz über Hegel/Einleitung.md",
+    "Recording 20230408114537.webm",
     "Aufsatz über Hegel/Argumente für Hegels Weltanschaung.md",
     "Session_02/2023-04-08.md",
     "Aufsatz über Hegel/niedlicher-eulenkopf-im-flachen-cartoon-stil_1308-112334.webp",
@@ -201,7 +194,6 @@
     "Z_Anhänge/Elefant_front_klein.jpg",
     "Aufsatz über Hegel",
     "Bilder einfügen.md",
-    "Aufsatz über Hegel/GWF Hegel.md",
     "Z_Anhänge",
     "Session_01/2023-04-07.md",
     "Z_Anhänge/Symbol_Befehlspalette.png",
