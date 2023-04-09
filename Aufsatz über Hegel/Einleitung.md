@@ -1,6 +1,6 @@
 ## Einleitung
 
-von github
+von obisidan
 
 ![[Recording 20230408114537.webm]]
 
