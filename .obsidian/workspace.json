@@ -163,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-04-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +179,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-04-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,9 +200,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-04-10.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -225,11 +221,11 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "940a2d201aa6dba8",
+  "active": "da3ab39bca6b1c4f",
   "lastOpenFiles": [
+    "2023-04-10.md",
     "Session_02/2023-04-08.md",
     "2023-04-09/Obsidian Sync für Studenten.md",
-    "2023-04-10.md",
     "Bilder einfügen.md",
     "Pasted image 20230409170847.png",
     "Aufsatz über Hegel/Einleitung.md",
