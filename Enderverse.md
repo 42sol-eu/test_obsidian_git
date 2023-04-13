@@ -3,7 +3,7 @@
 3. Earth Awakens
 4. The Swarm (also known as "The Second Formic War")
 5. The Hive (also known as "The Second Formic War")
-6. The Q
+6. The Queen ?? 
 7. Main Plot
 	1. Ender's Game
 	2. Ender's Shadow
