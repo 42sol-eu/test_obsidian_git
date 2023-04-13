@@ -11,8 +11,12 @@
             "id": "73e36dc9f7473ff0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Test.md"
+              }
             }
           }
         ],
@@ -141,6 +149,7 @@
   },
   "active": "73e36dc9f7473ff0",
   "lastOpenFiles": [
+    "Test.md",
     "Aufsatz über Hegel/Argumente für Hegels Weltanschaung.md",
     "Session_02/2023-04-08.md",
     "Session_01/Bilder einfügen.md",
