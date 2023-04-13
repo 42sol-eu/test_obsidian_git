@@ -17,7 +17,7 @@
 - [x] offline vault als git repository anlegen
 - [x] online remote (verbindung zu github) setzen
 - [x] online erstes vom Server herunterladen (pull) und auf Server speichern (push)
-- [ ] Zweites Gerät einrichten (2023-04-09)
+- >> Zweites Gerät einrichten [[2023-04-10]]
 
 ![[Pasted image 20230409170847.png]]
 
