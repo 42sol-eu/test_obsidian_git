@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enderverse.md",
+                "file": "Session_05/TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa1c4901b58a3dce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session_05/Github Publish.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enderverse.md",
+                "file": "Session_05/Github Publish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enderverse.md",
+                "file": "Session_05/Github Publish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enderverse.md"
+                "file": "Session_05/Github Publish.md"
               }
             }
           }
@@ -160,26 +172,27 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "7b30e75bb397109d",
+  "active": "aa1c4901b58a3dce",
   "lastOpenFiles": [
-    "Test.md",
+    "Session_05/TODO.md",
+    "Session_05/Github Publish.md",
+    "Session_03/Obsidian Git.md",
+    "Session_04/2023-04-10.md",
+    "Session_04/Tabellen anlegen.md",
     "Enderverse.md",
+    "Test.md",
     "Aufsatz über Hegel/Argumente für Hegels Weltanschaung.md",
     "Session_02/2023-04-08.md",
     "Session_01/Bilder einfügen.md",
     "Aufsatz über Hegel/Einleitung.md",
     "2023-04-09/Obsidian Sync für Studenten.md",
-    "Session_04/2023-04-10.md",
-    "Session_05/TODO.md",
     "Session_05",
     "Z_Anhänge/Symbol_Befehlspalette.png",
     "Z_Anhänge/Symbol_Schellauswahl.png",
     "Z_Anhänge/Unbenannt.canvas",
-    "Session_04/Tabellen anlegen.md",
     "Session_03/Recording 20230408114537.webm",
     "Session_03/Pasted image 20230409170847.png",
     "Session_03/2023-04-09.md",
-    "Session_03/Obsidian Git.md",
     "Session_04",
     "Session_03",
     "Session_01/2023-04-07.md",
