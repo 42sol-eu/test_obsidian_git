@@ -1,2 +1,2 @@
 [[github.com]]
-[[[Obsidian Sync für Studenten]]]
+[[Obsidian Sync für Studenten]]]
