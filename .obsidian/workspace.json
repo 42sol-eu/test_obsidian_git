@@ -117,8 +117,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,7 +199,7 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "1f66b3ad8b41a4f6",
+  "active": "f5621dbb68f87a52",
   "lastOpenFiles": [
     "2023-04-09/Obsidian Sync für Studenten.md",
     "Untitled.canvas",
